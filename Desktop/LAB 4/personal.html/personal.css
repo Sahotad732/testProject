@@ -1,0 +1,23 @@
+body {background-color:#d68282;
+    color: #ff0000;
+font-family:"Times New Roman";
+background-image: url(background0.PNG);
+}#container{ margin-left: auto;
+margin-right: auto;
+width: 700px;
+background-color: khaki;}
+h1{ background-color: #d68282;
+    color: #ff0000;text-align: center;
+font-family:"Times New Roman";}
+h2{ background-color:#d68282;
+    color: #ff0000;text-align: center;
+font-family:"Times New Roman";}
+a{ text-decoration: none; }
+li{background-color: azure;}
+header{background-color: azure;}
+p{background-color: azure;}
+
+h3{ background-color: #d68282;
+    color: #ff0000;
+font-family:"Times New Roman";
+text-align: center;}
